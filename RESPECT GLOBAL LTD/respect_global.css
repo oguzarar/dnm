@@ -80,3 +80,7 @@ hr {
 .footer-copy{
     color: white;
 }
+#carouselExampleControls{
+    height: 100px;
+    width: 500px;
+}
